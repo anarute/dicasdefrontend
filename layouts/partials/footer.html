@@ -1,0 +1,18 @@
+<footer id="footer">
+    {{ if .Site.Social }}
+        {{ partial "social.html" . }}
+    {{ end }}
+    <p class="small">
+    {{ with .Site.Params.copyright }}
+        {{ . | markdownify }}
+    {{ else }}
+       <i class="fa fa-creative-commons"></i>
+       <a href="https://creativecommons.org/licenses/by/4.0/">CC By 4.0</a> 
+       <i class="fa fa-heart" aria-hidden="true"></i> {{ .Site.Params.name }}
+       <br/> Pode copiar tudo, tá liberado! Só mantém os créditos, please.
+    {{ end }}
+    </p>
+    <p class="small">
+        Powered by <a href="http://www.gohugo.io/">Hugo</a> | Tema baseado no <a href="https://github.com/nodejh/hugo-theme-cactus-plus">Cactus Plus</a>
+    </p>
+</footer>

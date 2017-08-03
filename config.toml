@@ -1,0 +1,75 @@
+# Site settings
+baseurl = "http://dicasdefrontend.com.br/"
+# HTML Language Code Reference, such as en, zh-cn
+languageCode = "en"
+title = "Newsletter Dicas de Front End"
+theme = "hugo-theme-cactus-plus"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "your_google_analytics_code"
+hasCJKLanguage = true
+
+[params]
+	name = "Dicas de Front End"
+	description = "Newsletter periódica com uma lista de links curados manualmente e insights sobre o universo front end."
+	bio = "Uma newsletter sobre desenvolvimento front end mantida pela comunidade."
+	# Enter optionally your twitter account
+	twitter = "ana_rute"
+	enableRSS = true
+
+	# Disqus comment
+	disqusShortname = "dicasdefrontend"
+	# Disable disqus comments by set `enableDisqus = "false"`
+	enableDisqus = false
+
+	# Duoshuo comment
+	duoshuoShortname = "your_duoshuo_short_name"
+	# Disable duoshuo comments by set `enableDuoshuo = "false"`
+	enableDuoshuo = false
+
+	enableGithubIssuesTips = true
+
+	# Enable googleAnalytics
+	enableGoogleAnalytics = false
+
+	# Enable baiduAnalytics
+	enableBaiduAnalytics = false
+	# Baidu Tongji Code
+	baiduAnalytics = 'your_baidu_tongji_code'
+
+	# Add custom assets with their paths relative to the static folder
+	customCSS = [ '/css/typography.css' ]
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	about = "Contribua!"
+	archive = ""
+	subscribe = ""
+	tags = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Desenvolvedora front-end com background em empreendedorismo."
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = "Ops, página não encontrada :("
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+  socialIconStyle = ""
+
+
+# Add additional social link entries underneath
+[social]
+	# facebook-square = "your_facebook_link"
+  twitter-square = "http://twitter.com/ana_rute"
+  github-square = "http://github.com/anarute/dicas-de-frontend"
