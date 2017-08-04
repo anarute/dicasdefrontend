@@ -8,6 +8,8 @@ theme = "hugo-theme-cactus-plus"
 googleAnalytics = "your_google_analytics_code"
 hasCJKLanguage = true
 
+publishDir = "docs"
+
 [params]
 	name = "Dicas de Front End"
 	description = "Newsletter periódica com uma lista de links curados manualmente e insights sobre o universo front end."
