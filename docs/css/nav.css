@@ -1,0 +1,14 @@
+nav.main-nav {
+    padding: 15px;
+}
+nav.main-nav a{
+  font-size: 1em;
+  font-family: 'PT Mono', monospace;
+  text-transform: uppercase;
+  margin-left: 20px;
+  border: 1px solid #fff;
+}
+nav.main-nav a:hover{
+  color: #444;
+  border: 1px dashed #ddd;
+}

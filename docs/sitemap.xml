@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dicasdefrontend.com.br/about/</loc>
+    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dicasdefrontend.com.br/tags/</loc>
+    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dicasdefrontend.com.br/post/creating-a-new-theme/</loc>
+    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dicasdefrontend.com.br/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dicasdefrontend.com.br/tags/css/</loc>
+    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dicasdefrontend.com.br/</loc>
+    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dicasdefrontend.com.br/tags/ghost/</loc>
+    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dicasdefrontend.com.br/post/</loc>
+    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

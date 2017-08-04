@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dicas de Front End</title>
+    <link>http://dicasdefrontend.com.br/post/</link>
+    <description>Recent content in Posts on Dicas de Front End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dicasdefrontend.com.br/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dica #1</title>
+      <link>http://dicasdefrontend.com.br/post/creating-a-new-theme/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://dicasdefrontend.com.br/post/creating-a-new-theme/</guid>
+      <description>Olá pessoal,
+Esta é a primeira edição da newsletter Dicas de Front-end. Pretendo trazer aqui, semanalmente, artigos e dicas com novidades, opiniões e discussões sobre o desenvolvimento Front-end e Web Design. Não necessariamente compartilho das opiniões dos artigos, mas se estão aqui é que no mínimo considerei as discussões importantes. Manterei o padrão de enviar o link, seguido do tempo estimado de leitura e um breve resumo (escrito por mim) de cada um.</description>
+    </item>
+    
+  </channel>
+</rss>
