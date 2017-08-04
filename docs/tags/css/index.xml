@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Dicas de Front End</title>
-    <link>http://dicasdefrontend.com.br/tags/css/</link>
+    <link>https://anarute.github.io/dicasdefrontend/tags/css/</link>
     <description>Recent content in Css on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dicasdefrontend.com.br/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Dica #2</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-2/</link>
+      <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-2/</guid>
+      <description>Notícias O Internet Explorer é pior do que você pensa [2 min]
+Foi detectada (mais) uma falha de segurança no Internet Explorer que permite a execução de códigos no seu browser remotamente. É mais um motivo para não utilizar o IE. Se você está recebendo os emails dessa lista, espero fortemente que não o utilize como navegador principal (algumas opções ao IE aqui). A Microsoft lançou no dia 1º a atualização para esta falha, leia mais aqui.</description>
+    </item>
+    
+    <item>
       <title>Dica #1</title>
-      <link>http://dicasdefrontend.com.br/post/creating-a-new-theme/</link>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-1/</link>
       <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dicasdefrontend.com.br/post/creating-a-new-theme/</guid>
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-1/</guid>
       <description>Olá pessoal,
 Esta é a primeira edição da newsletter Dicas de Front-end. Pretendo trazer aqui, semanalmente, artigos e dicas com novidades, opiniões e discussões sobre o desenvolvimento Front-end e Web Design. Não necessariamente compartilho das opiniões dos artigos, mas se estão aqui é que no mínimo considerei as discussões importantes. Manterei o padrão de enviar o link, seguido do tempo estimado de leitura e um breve resumo (escrito por mim) de cada um.</description>
     </item>

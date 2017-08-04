@@ -2,30 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dicas de Front End</title>
-    <link>http://dicasdefrontend.com.br/tags/</link>
+    <link>https://anarute.github.io/dicasdefrontend/tags/</link>
     <description>Recent content in Tags on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
     
-	<atom:link href="http://dicasdefrontend.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Css</title>
-      <link>http://dicasdefrontend.com.br/tags/css/</link>
-      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      <link>https://anarute.github.io/dicasdefrontend/tags/css/</link>
+      <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dicasdefrontend.com.br/tags/css/</guid>
+      <guid>https://anarute.github.io/dicasdefrontend/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designers</title>
+      <link>https://anarute.github.io/dicasdefrontend/tags/designers/</link>
+      <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/tags/designers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ghost</title>
-      <link>http://dicasdefrontend.com.br/tags/ghost/</link>
+      <link>https://anarute.github.io/dicasdefrontend/tags/ghost/</link>
       <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://dicasdefrontend.com.br/tags/ghost/</guid>
+      <guid>https://anarute.github.io/dicasdefrontend/tags/ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ie</title>
+      <link>https://anarute.github.io/dicasdefrontend/tags/ie/</link>
+      <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/tags/ie/</guid>
       <description></description>
     </item>
     

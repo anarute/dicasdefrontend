@@ -3,46 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dicasdefrontend.com.br/about/</loc>
+    <loc>https://anarute.github.io/dicasdefrontend/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dicasdefrontend.com.br/tags/</loc>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dicasdefrontend.com.br/post/creating-a-new-theme/</loc>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-2/</loc>
+    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-1/</loc>
     <lastmod>2014-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dicasdefrontend.com.br/categories/</loc>
+    <loc>https://anarute.github.io/dicasdefrontend/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dicasdefrontend.com.br/tags/css/</loc>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/css/</loc>
+    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/designers/</loc>
+    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/</loc>
+    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/ghost/</loc>
     <lastmod>2014-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dicasdefrontend.com.br/</loc>
-    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/ie/</loc>
+    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dicasdefrontend.com.br/tags/ghost/</loc>
-    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dicasdefrontend.com.br/post/</loc>
-    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+    <loc>https://anarute.github.io/dicasdefrontend/post/</loc>
+    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
