@@ -1,12 +1,11 @@
 ---
 author: "Ana Rute Mendes"
-date: 2014-09-28
+date: 2014-04-29
 title: "Dica #1"
 tags: [
     "CSS",
     "Ghost",
 ]
-date: "2014-04-29"
 description: "Primeira edição da newsletter Dicas de Front End. Pretendo trazer aqui, semanalmente, artigos e dicas com novidades, opiniões e discussões sobre o desenvolvimento Front-end e Web Design."
 ---
 
