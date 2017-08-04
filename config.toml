@@ -2,7 +2,7 @@
 baseurl = "http://dicasdefrontend.com.br/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
-title = "Newsletter Dicas de Front End"
+title = "Dicas de Front End"
 theme = "hugo-theme-cactus-plus"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "your_google_analytics_code"
@@ -40,6 +40,7 @@ hasCJKLanguage = true
 	customCSS = [
     '/css/typography.css',
     '/css/header.css',
+    '/css/nav.css',
     ]
 	customJS  = []
 
@@ -49,7 +50,7 @@ hasCJKLanguage = true
 	# Navigation links
 	home = ""
 	about = "Contribua!"
-	archive = ""
+	archive = "Dicas passadas"
 	subscribe = ""
 	tags = ""
 	# Pagination links
