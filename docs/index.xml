@@ -6,10 +6,252 @@
     <description>Recent content on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 May 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://anarute.github.io/dicasdefrontend/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dica #24 - Me aventurando em Elm</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-24-me-aventurando-em-elm/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-24-me-aventurando-em-elm/</guid>
+      <description>Olá pessoal!
+Ano passado foi um furacão pessoal e profissional pra mim: minha startup recebeu financiamento da Fapesp, eu fiz um estágio de 3 meses na Mozilla, fui pra Londres, palestrei no FISL, tive muitos momentos de &amp;ldquo;my brain hurts&amp;rdquo;, mas foi tudo muito positivo! Comecei 2017 com muita vontade de produzir, o que nos leva ao que tenho estudado ultimamente: programação funcional e Elm.
+Antes de pular pros links, eu queria compartilhar que o dicas tem tomado um carater mais pessoal e orgânico, ao invés de ser só um compilado de artigos (irei inclusive replicar essa edição no medium e passar a escrever mais por lá).</description>
+    </item>
+    
+    <item>
+      <title>Dica #23 - Como é difícil não procrastinar</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-23-como-e-dificil-nao-procrastinar/</link>
+      <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-23-como-e-dificil-nao-procrastinar/</guid>
+      <description>Olá pessoal,
+Já sigo um tempo sem postar pra vocês e toda semana fico pensando &amp;ldquo;putz, precisava criar email pro dicas&amp;rdquo;&amp;hellip; mas sento no computador, enrolo e quando percebo já está tarde e não tenho mais tempo. Hoje voltei por ter uma novidade muito especial e que me motivou a voltar os estudos de vez, fui aprovada no programa Outreachy para inserção de mulheres em projetos de software livre! Quem quiser saber mais, fiz um post sobre isso no meu blog pessoal.</description>
+    </item>
+    
+    <item>
+      <title>Dica #22 - Tirando a poeira</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-22/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-22/</guid>
+      <description>Voltando a estudar e com o Dicas ;)
+As Minas que Quebram os Códigos da Desigualdade de Gênero Artigo não-técnico porém nem um pouco menos importante. Conheça as meninas do Maria Lab, que se dedicam ativamente para diminuir a desigualdade de gênero no mercado de tecnologia.
+Manipulando SVG com JS O Willian fez um ótimo post para quem quer começar a manipular SVG com Javascript.
+Linha do tempo da web e da internet Uma linha do tempo bem didática e informativa sobre a evolução da web.</description>
+    </item>
+    
+    <item>
+      <title>Dica #21 - Vamos nos comunicar</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-21/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-21/</guid>
+      <description>Novidades Grupos no Slack Para facilitar a comunicação da comunidade Front End brasileira, foi criado um grupo no Slack! Clique aqui para entrar :)
+Meninas do Dicas, a Ju Gonçalves também criou um grupo para empoderar mulheres na área de TI (bem como incentivar novas a entrarem na área) e promover sessões de hangouts para troca de experiências e conhecimento. Clique aqui para entrar no grupo Lady Talks no Slack.</description>
+    </item>
+    
+    <item>
+      <title>Dica #20 - React, eBooks gratuitos e experimentos web</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-20/</link>
+      <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-20/</guid>
+      <description>Como se tornar um desenvolvedor Front End Mais um guia fundamental para quem quer aprender todos os passos necessários para se tornar um[a] desenvolver[a] Front End.
+React Loop [en] Clube de leitura com newsletter para estudos de React criada pelo Helder.
+Introdução ao React.JS Para iniciantes: Introdução a alguns conceitos básicos do React.
+DevFreeCasts Site com uma coleção grande de screencasts e talks gratuitos sobre linguagens de programação, frameworks e devtools.</description>
+    </item>
+    
+    <item>
+      <title>Dica #19</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-19-jekyll-extracao-de-requisitos-2/</link>
+      <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-19-jekyll-extracao-de-requisitos-2/</guid>
+      <description>Apparently Transparent Experimento incrível utilizando CSS e Javascript que simula um ambiente 3D (código-fonte disponível).
+Perguntas e Respostas - Jekyll Um FAQ bem didático sobre o gerador estático de páginas Jekyll.
+Quanto meu projeto de software vai custar? Dicas preciosas para ajudar a orçar projetos sem criar prazos e custos foras da realidade.
+Princípios para escrever CSS de forma consistente e idiomática Para iniciantes: boas práticas de escrita de CSS.</description>
+    </item>
+    
+    <item>
+      <title>Dica #18</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-18/</link>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-18/</guid>
+      <description>Apparently Transparent Experimento incrível utilizando CSS e Javascript que simula um ambiente 3D (código-fonte disponível).
+Perguntas e Respostas - Jekyll Um FAQ bem didático sobre o gerador estático de páginas Jekyll.
+Quanto meu projeto de software vai custar? Dicas preciosas para ajudar a orçar projetos sem criar prazos e custos foras da realidade.
+Princípios para escrever CSS de forma consistente e idiomática Para iniciantes: boas práticas de escrita de CSS.</description>
+    </item>
+    
+    <item>
+      <title>Dica #17</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-17/</link>
+      <pubDate>Sun, 07 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-17/</guid>
+      <description>Novidades Segredos do Chrome DevTools #2 Saem 5 novos vídeos explorando as ferramentas do Chrome DevTools. Dicas valiosas e videos muito didáticos!
+Artigos The book is on the table [8 min] Uma coletânea de livros feita pelo Vitor Britto para se aprender (e muito bem) Javascript.
+Otimização de imagens [7 min] Dicas sobre como otimizar imagens para web, quais os melhores formatos e traz também uma lista de ferramentas úteis sobre o assunto.</description>
+    </item>
+    
+    <item>
+      <title>Dica #16</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-16/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-16/</guid>
+      <description>Artigos Desenhando um produto para para mais de um bilhão de pessoas [13 min - video] Um TED sobre a experiência de desenhar um produto para mais de um bilhão de pessoas, no caso o redesign do botão Like do Facebook, que demorou mais de 280 horas para ser finalizado.
+Percebendo usuários: erros, de quem é a culpa? Sobre a importância de levar em consideração o sentimento do usuário ao utilizar seu produto.</description>
+    </item>
+    
+    <item>
+      <title>Dica #15</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-15/</link>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-15/</guid>
+      <description>Artigos Como nasceu o Meetup CSS SP! São Paulo ganhou um novo evento de Front-End, o meetup CSS SP, veja como foi!
+Servindo sites estáticos com Jekyll &amp;ldquo;Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websites estáticos, sem banco de dados e fáceis de gerenciar.&amp;rdquo;
+Manipulação de pseudo-elements com JavaScript Manipular pseudo-elementos com Javascript é mais complicado do que parece. Aprenda um pouco sobre isso.</description>
+    </item>
+    
+    <item>
+      <title>Dica #14</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-14/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-14/</guid>
+      <description>Artigos Mas e o briefing&amp;hellip;? [5 min] Algumas dicas na etapa de extração de requisitos que podem evitar que você se perca ao executar um trabalho.
+As implicações do campo de busca na experiência do usuário [7 min] A importância de se ter um mecanismo de busca que funcione bem na experiência do usuário e o quão complexo é fazer isso.
+Úteis Fontface Ninja Ferramenta super útil para quem trabalha com tipografia.</description>
+    </item>
+    
+    <item>
+      <title>Dica #13</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-13/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-13/</guid>
+      <description>Novidades Segredos do Chrome Dev Tools Zeno Rocha fez uma série de videos com dicas sobre o DevTools do Google. Cada vídeo tem em média 6 minutos, são bastante úteis e didáticos!
+Rolagem contínua em sites de notícias ajuda a conter taxa de rejeição Através da rolagem contínua de conteúdo os sites de notícia aumentaram a retenção dos usuários que caem no site via redes sociais.
+Artigos Quanto vale 1 pixel?</description>
+    </item>
+    
+    <item>
+      <title>Dica #12</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-12/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-12/</guid>
+      <description>Novidades Eventos Front-End no Brasil A BrazilJS atualizou a lista de eventos de Front-End que acontecerão no país, vale dar uma conferida e acompanhar.
+TJ Holowaychuk anunciou que está largando o Node.JS e você com isto? Entenda as implicações da saída de um dos membros mais ativos da comunidade Node.JS
+Artigos Os 25 anos da Web No mês de março a web completou 25 anos. Neste artigo Reinaldo Ferraz da W3C Brasil faz uma retrospectiva em como a web surgiu e tornou-se importante e nos convida a se envolver com a comunidade.</description>
+    </item>
+    
+    <item>
+      <title>Dica #11</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-11/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-11/</guid>
+      <description>Novidades Novo design do site &amp;ldquo;Can I Use&amp;rdquo; O caniuse é um site bastante útil para verificar o suporte dos navegadores desktop e mobile para os principais elementos front-end (como propriedades CSS3, elementos HTML5, APIs JavaScript, etc.) O redesign traz um visual mais clean e uma experiência de uso mais agradável, além da correção de alguns bugs e maior suporte para mobile. A nova versão ainda está em beta passando por testes e recebendo feedbacks antes de tomar o lugar da atual.</description>
+    </item>
+    
+    <item>
+      <title>Dica #10</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-10/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-10/</guid>
+      <description>Dicas dessa semana com muitas novidades do Google por causa dos lançamentos feitos na Google/IO (infelizmente não recebi nada pela propaganda! hahah)
+Novidades Google Design [en] Semana passada rolou a Google/IO principal conferência da Google. No link acima você pode conferir as diretrizes que a empresa vem seguindo, mostrando um foco muito forte em UX. Leia também este artigo que fala um pouco sobre o material design, uma das novidades apresentadas.</description>
+    </item>
+    
+    <item>
+      <title>Dica #9</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-9/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-9/</guid>
+      <description>Em clima de copa, mas sem deixar de se atualizar. Vale até ler durante o intervalo dos jogos entre um amendoim e uma cervejinha :)
+Novidades Tendências da Copa do Mundo pelo Google Google trends especial sobre a copa do mundo na internet.
+Made with code [en] Mais um projeto bem legal para quebrar a barreira do ensino de programação para iniciantes. Desta vez voltado para meninas e feito pelo Google.</description>
+    </item>
+    
+    <item>
+      <title>Dica #8</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-8/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-8/</guid>
+      <description>Novidades O software que inspirou o HTML foi finalmente lançado após 54 anos Conheça o OpenXanadu, projeto de hipertexto iniciado em 1960, bem antes da criação do HTML. Dá uma olhada nesse exemplo de um xanadoc.
+Artigos (e guia) CSS on steroids [5 min] Aprenda algumas práticas para aprimorar seu código CSS e entenda as vantagens de se utilizar pré-processadores.
+Wireframe, protótipo e mockup – Qual a diferença? [7 min] Você sabe distinguir essas três formas de representar um projeto?</description>
+    </item>
+    
+    <item>
+      <title>Dica #7</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-7/</link>
+      <pubDate>Mon, 09 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-7/</guid>
+      <description>Novidades Apple apresenta OS X Yosemite, com destaque para detalhes de design Veja o que foi apresentado na WWDC, a conferência da Apple para desenvolvedores. Para quem já quer começar a aprender Swift, a nova linguagem de programação anunciada pela Apple, a própria empresa já disponibilizou um ebook, baixe aqui.
+WebCompat [en] Novo projeto da Mozilla para reportar bugs da internet colaborativamente.
+Artigos Código não é poesia. É política [4 min] &amp;ldquo;Quando o Search Engine Optimization controla a distribuição da informação, quem controla o SEO?</description>
+    </item>
+    
+    <item>
+      <title>Dica #6</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-6/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-6/</guid>
+      <description>Novidades Cursos gratuitos do Codecademy ganham versão em português [2 min] Após alguns anos de espera a Codecademy lançou uma versão em português com cursos gratuitos de HTML, CSS, JavaScript, jQuery, PHP, Python e Ruby. Ainda não está totalmente traduzida, mas já possui boa parte dos cursos em português.
+Artigos Segredos do Chrome Developer Tools [3 min] Dicas de funções bastante úteis, mas pouco conhecidas do Chrome Developer Tools.</description>
+    </item>
+    
+    <item>
+      <title>Dica #5</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-5/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-5/</guid>
+      <description>Artigos Adicionando Markdown ao seu kit de sobrevivência na web [5 min] Entenda como funciona o markdown e veja várias referências para se aprofundar no assunto.
+Como UX pode destruir mercados [4 min] Sobre as grandes empresas estarem perdendo espaço para novas por ficarem atrasadas na experiência com usuário/cliente.
+O que é Design Atômico? [8 min] Um ponto de início para entender um pouco sobre essa metodologia de desenvolvimento que tem se tornado popular.</description>
+    </item>
+    
+    <item>
+      <title>Dica #4</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-4/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-4/</guid>
+      <description>Artigos Página 404: como tirar proveito dela? [3 min] Algumas referências e dicas para não perder o usuário ao receber um erro 404.
+6 dicas para se dar bem em freelas e trabalhos remotos [6 min] Dicas preciosas para quem trabalha remotamente ou planeja fazer isso.
+Um desabafo sobre o U do UX nas agências de publicidade [5 min] &amp;ldquo;O quanto de U você realmente pratica no seu título de UX Designer?</description>
+    </item>
+    
+    <item>
+      <title>Dica #3</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-3/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-3/</guid>
+      <description>Artigos Schema.org - Apenas use. [5 min]
+Deixando seu conteúdo realmente semântico. Entenda como fazer isso usando o Schema.org
+Porque toda criança deve aprender a programar [4 min]
+Especial para as mães (e pais!): alguns motivos porque toda criança deve aprender a programar, traz também alguns sites gratuitos por onde começar.
+Começar a programar é com JavaScript [1 min]
+Entenda porque JS tem sido frequentemente escolhida para se aprender a programar.</description>
+    </item>
     
     <item>
       <title>Dica #2</title>

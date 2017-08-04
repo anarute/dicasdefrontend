@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance on Dicas de Front End</title>
+    <link>https://anarute.github.io/dicasdefrontend/tags/performance/</link>
+    <description>Recent content in Performance on Dicas de Front End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dica #23 - Como é difícil não procrastinar</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-23-como-e-dificil-nao-procrastinar/</link>
+      <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-23-como-e-dificil-nao-procrastinar/</guid>
+      <description>Olá pessoal,
+Já sigo um tempo sem postar pra vocês e toda semana fico pensando &amp;ldquo;putz, precisava criar email pro dicas&amp;rdquo;&amp;hellip; mas sento no computador, enrolo e quando percebo já está tarde e não tenho mais tempo. Hoje voltei por ter uma novidade muito especial e que me motivou a voltar os estudos de vez, fui aprovada no programa Outreachy para inserção de mulheres em projetos de software livre! Quem quiser saber mais, fiz um post sobre isso no meu blog pessoal.</description>
+    </item>
+    
+    <item>
+      <title>Dica #14</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-14/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-14/</guid>
+      <description>Artigos Mas e o briefing&amp;hellip;? [5 min] Algumas dicas na etapa de extração de requisitos que podem evitar que você se perca ao executar um trabalho.
+As implicações do campo de busca na experiência do usuário [7 min] A importância de se ter um mecanismo de busca que funcione bem na experiência do usuário e o quão complexo é fazer isso.
+Úteis Fontface Ninja Ferramenta super útil para quem trabalha com tipografia.</description>
+    </item>
+    
+  </channel>
+</rss>

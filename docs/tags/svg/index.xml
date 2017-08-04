@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svg on Dicas de Front End</title>
+    <link>https://anarute.github.io/dicasdefrontend/tags/svg/</link>
+    <description>Recent content in Svg on Dicas de Front End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dica #21 - Vamos nos comunicar</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-21/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-21/</guid>
+      <description>Novidades Grupos no Slack Para facilitar a comunicação da comunidade Front End brasileira, foi criado um grupo no Slack! Clique aqui para entrar :)
+Meninas do Dicas, a Ju Gonçalves também criou um grupo para empoderar mulheres na área de TI (bem como incentivar novas a entrarem na área) e promover sessões de hangouts para troca de experiências e conhecimento. Clique aqui para entrar no grupo Lady Talks no Slack.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Http on Dicas de Front End</title>
+    <link>https://anarute.github.io/dicasdefrontend/tags/http/</link>
+    <description>Recent content in Http on Dicas de Front End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dica #10</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-10/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-10/</guid>
+      <description>Dicas dessa semana com muitas novidades do Google por causa dos lançamentos feitos na Google/IO (infelizmente não recebi nada pela propaganda! hahah)
+Novidades Google Design [en] Semana passada rolou a Google/IO principal conferência da Google. No link acima você pode conferir as diretrizes que a empresa vem seguindo, mostrando um foco muito forte em UX. Leia também este artigo que fala um pouco sobre o material design, uma das novidades apresentadas.</description>
+    </item>
+    
+  </channel>
+</rss>

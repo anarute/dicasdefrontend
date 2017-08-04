@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usabilidade on Dicas de Front End</title>
+    <link>https://anarute.github.io/dicasdefrontend/tags/usabilidade/</link>
+    <description>Recent content in Usabilidade on Dicas de Front End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/usabilidade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dica #16</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-16/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-16/</guid>
+      <description>Artigos Desenhando um produto para para mais de um bilhão de pessoas [13 min - video] Um TED sobre a experiência de desenhar um produto para mais de um bilhão de pessoas, no caso o redesign do botão Like do Facebook, que demorou mais de 280 horas para ser finalizado.
+Percebendo usuários: erros, de quem é a culpa? Sobre a importância de levar em consideração o sentimento do usuário ao utilizar seu produto.</description>
+    </item>
+    
+    <item>
+      <title>Dica #14</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-14/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-14/</guid>
+      <description>Artigos Mas e o briefing&amp;hellip;? [5 min] Algumas dicas na etapa de extração de requisitos que podem evitar que você se perca ao executar um trabalho.
+As implicações do campo de busca na experiência do usuário [7 min] A importância de se ter um mecanismo de busca que funcione bem na experiência do usuário e o quão complexo é fazer isso.
+Úteis Fontface Ninja Ferramenta super útil para quem trabalha com tipografia.</description>
+    </item>
+    
+    <item>
+      <title>Dica #13</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-13/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-13/</guid>
+      <description>Novidades Segredos do Chrome Dev Tools Zeno Rocha fez uma série de videos com dicas sobre o DevTools do Google. Cada vídeo tem em média 6 minutos, são bastante úteis e didáticos!
+Rolagem contínua em sites de notícias ajuda a conter taxa de rejeição Através da rolagem contínua de conteúdo os sites de notícia aumentaram a retenção dos usuários que caem no site via redes sociais.
+Artigos Quanto vale 1 pixel?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-24-me-aventurando-em-elm/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-23-como-e-dificil-nao-procrastinar/</loc>
+    <lastmod>2016-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-22/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://anarute.github.io/dicasdefrontend/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
@@ -10,6 +25,101 @@
   <url>
     <loc>https://anarute.github.io/dicasdefrontend/tags/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-21/</loc>
+    <lastmod>2015-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-20/</loc>
+    <lastmod>2015-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-19-jekyll-extracao-de-requisitos-2/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-18/</loc>
+    <lastmod>2014-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-17/</loc>
+    <lastmod>2014-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-16/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-15/</loc>
+    <lastmod>2014-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-14/</loc>
+    <lastmod>2014-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-13/</loc>
+    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-12/</loc>
+    <lastmod>2014-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-11/</loc>
+    <lastmod>2014-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-10/</loc>
+    <lastmod>2014-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-9/</loc>
+    <lastmod>2014-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-8/</loc>
+    <lastmod>2014-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-7/</loc>
+    <lastmod>2014-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-6/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-5/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-4/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/post/dica-3/</loc>
+    <lastmod>2014-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,13 +133,79 @@
   </url>
   
   <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/404/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/anima%C3%A7%C3%B5es/</loc>
+    <lastmod>2015-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/apple/</loc>
+    <lastmod>2014-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/assets/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/atomic-design/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/carreira/</loc>
+    <lastmod>2014-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://anarute.github.io/dicasdefrontend/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/chrome/</loc>
+    <lastmod>2014-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/componentes/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/cores/</loc>
+    <lastmod>2014-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://anarute.github.io/dicasdefrontend/tags/css/</loc>
-    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2015-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/cursos-online/</loc>
+    <lastmod>2016-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/design-responsivo/</loc>
+    <lastmod>2014-06-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,7 +217,55 @@
   
   <url>
     <loc>https://anarute.github.io/dicasdefrontend/</loc>
-    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/ebooks/</loc>
+    <lastmod>2015-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/elm/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/empreendedorismo/</loc>
+    <lastmod>2014-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/ensino-de-programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2014-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/es6/</loc>
+    <lastmod>2016-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/experimentos/</loc>
+    <lastmod>2015-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/express%C3%B5es-regulares/</loc>
+    <lastmod>2014-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/freelancer/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,14 +276,194 @@
   </url>
   
   <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/git/</loc>
+    <lastmod>2016-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/g%C3%AAnero/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/hist%C3%B3ria-da-web/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/http/</loc>
+    <lastmod>2014-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://anarute.github.io/dicasdefrontend/tags/ie/</loc>
-    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/javascript/</loc>
+    <lastmod>2016-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/jekyll/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/markdown/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/minimalismo/</loc>
+    <lastmod>2014-07-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/m%C3%A9tricas/</loc>
+    <lastmod>2014-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/nodejs/</loc>
+    <lastmod>2014-07-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/parallax/</loc>
+    <lastmod>2014-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/performance/</loc>
+    <lastmod>2016-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/podcast/</loc>
+    <lastmod>2015-02-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/pol%C3%ADtica/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://anarute.github.io/dicasdefrontend/post/</loc>
-    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/produtividade/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/reactjs/</loc>
+    <lastmod>2015-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/schema/</loc>
+    <lastmod>2014-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/slack/</loc>
+    <lastmod>2015-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/sprites/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/svg/</loc>
+    <lastmod>2015-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/tipografia/</loc>
+    <lastmod>2014-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/trabalho-remoto/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/unidades-de-medida/</loc>
+    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/usabilidade/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/ux/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/videos/</loc>
+    <lastmod>2014-09-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/vis%C3%A3o-computacional/</loc>
+    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/web.br/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/webcomponents/</loc>
+    <lastmod>2014-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anarute.github.io/dicasdefrontend/tags/wireframe/</loc>
+    <lastmod>2014-08-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

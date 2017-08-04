@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minimalismo on Dicas de Front End</title>
+    <link>https://anarute.github.io/dicasdefrontend/tags/minimalismo/</link>
+    <description>Recent content in Minimalismo on Dicas de Front End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/minimalismo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dica #11</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-11/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-11/</guid>
+      <description>Novidades Novo design do site &amp;ldquo;Can I Use&amp;rdquo; O caniuse é um site bastante útil para verificar o suporte dos navegadores desktop e mobile para os principais elementos front-end (como propriedades CSS3, elementos HTML5, APIs JavaScript, etc.) O redesign traz um visual mais clean e uma experiência de uso mais agradável, além da correção de alguns bugs e maior suporte para mobile. A nova versão ainda está em beta passando por testes e recebendo feedbacks antes de tomar o lugar da atual.</description>
+    </item>
+    
+  </channel>
+</rss>

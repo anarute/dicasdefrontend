@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ux on Dicas de Front End</title>
+    <link>https://anarute.github.io/dicasdefrontend/tags/ux/</link>
+    <description>Recent content in Ux on Dicas de Front End</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dica #16</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-16/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-16/</guid>
+      <description>Artigos Desenhando um produto para para mais de um bilhão de pessoas [13 min - video] Um TED sobre a experiência de desenhar um produto para mais de um bilhão de pessoas, no caso o redesign do botão Like do Facebook, que demorou mais de 280 horas para ser finalizado.
+Percebendo usuários: erros, de quem é a culpa? Sobre a importância de levar em consideração o sentimento do usuário ao utilizar seu produto.</description>
+    </item>
+    
+    <item>
+      <title>Dica #15</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-15/</link>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-15/</guid>
+      <description>Artigos Como nasceu o Meetup CSS SP! São Paulo ganhou um novo evento de Front-End, o meetup CSS SP, veja como foi!
+Servindo sites estáticos com Jekyll &amp;ldquo;Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websites estáticos, sem banco de dados e fáceis de gerenciar.&amp;rdquo;
+Manipulação de pseudo-elements com JavaScript Manipular pseudo-elementos com Javascript é mais complicado do que parece. Aprenda um pouco sobre isso.</description>
+    </item>
+    
+    <item>
+      <title>Dica #14</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-14/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-14/</guid>
+      <description>Artigos Mas e o briefing&amp;hellip;? [5 min] Algumas dicas na etapa de extração de requisitos que podem evitar que você se perca ao executar um trabalho.
+As implicações do campo de busca na experiência do usuário [7 min] A importância de se ter um mecanismo de busca que funcione bem na experiência do usuário e o quão complexo é fazer isso.
+Úteis Fontface Ninja Ferramenta super útil para quem trabalha com tipografia.</description>
+    </item>
+    
+    <item>
+      <title>Dica #10</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-10/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-10/</guid>
+      <description>Dicas dessa semana com muitas novidades do Google por causa dos lançamentos feitos na Google/IO (infelizmente não recebi nada pela propaganda! hahah)
+Novidades Google Design [en] Semana passada rolou a Google/IO principal conferência da Google. No link acima você pode conferir as diretrizes que a empresa vem seguindo, mostrando um foco muito forte em UX. Leia também este artigo que fala um pouco sobre o material design, uma das novidades apresentadas.</description>
+    </item>
+    
+    <item>
+      <title>Dica #6</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-6/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-6/</guid>
+      <description>Novidades Cursos gratuitos do Codecademy ganham versão em português [2 min] Após alguns anos de espera a Codecademy lançou uma versão em português com cursos gratuitos de HTML, CSS, JavaScript, jQuery, PHP, Python e Ruby. Ainda não está totalmente traduzida, mas já possui boa parte dos cursos em português.
+Artigos Segredos do Chrome Developer Tools [3 min] Dicas de funções bastante úteis, mas pouco conhecidas do Chrome Developer Tools.</description>
+    </item>
+    
+    <item>
+      <title>Dica #5</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-5/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-5/</guid>
+      <description>Artigos Adicionando Markdown ao seu kit de sobrevivência na web [5 min] Entenda como funciona o markdown e veja várias referências para se aprofundar no assunto.
+Como UX pode destruir mercados [4 min] Sobre as grandes empresas estarem perdendo espaço para novas por ficarem atrasadas na experiência com usuário/cliente.
+O que é Design Atômico? [8 min] Um ponto de início para entender um pouco sobre essa metodologia de desenvolvimento que tem se tornado popular.</description>
+    </item>
+    
+    <item>
+      <title>Dica #4</title>
+      <link>https://anarute.github.io/dicasdefrontend/post/dica-4/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarute.github.io/dicasdefrontend/post/dica-4/</guid>
+      <description>Artigos Página 404: como tirar proveito dela? [3 min] Algumas referências e dicas para não perder o usuário ao receber um erro 404.
+6 dicas para se dar bem em freelas e trabalhos remotos [6 min] Dicas preciosas para quem trabalha remotamente ou planeja fazer isso.
+Um desabafo sobre o U do UX nas agências de publicidade [5 min] &amp;ldquo;O quanto de U você realmente pratica no seu título de UX Designer?</description>
+    </item>
+    
+  </channel>
+</rss>
