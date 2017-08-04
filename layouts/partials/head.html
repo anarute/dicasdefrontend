@@ -9,6 +9,7 @@
 		{{ .Hugo.Generator }}
 		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
 		<link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=PT+Mono" rel="stylesheet">
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlight.css">
 		{{ range .Site.Params.customCSS }}

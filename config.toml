@@ -26,7 +26,7 @@ hasCJKLanguage = true
 	# Disable duoshuo comments by set `enableDuoshuo = "false"`
 	enableDuoshuo = false
 
-	enableGithubIssuesTips = true
+	enableGithubIssuesTips = false
 
 	# Enable googleAnalytics
 	enableGoogleAnalytics = false
@@ -37,7 +37,10 @@ hasCJKLanguage = true
 	baiduAnalytics = 'your_baidu_tongji_code'
 
 	# Add custom assets with their paths relative to the static folder
-	customCSS = [ '/css/typography.css' ]
+	customCSS = [
+    '/css/typography.css',
+    '/css/header.css',
+    ]
 	customJS  = []
 
 	# The variables below are optionally too and can be used to
