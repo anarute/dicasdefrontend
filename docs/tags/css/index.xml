@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/css/</link>
+    <link>http://dicasdefrontend.com.br/tags/css/</link>
     <description>Recent content in Css on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Mar 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #21 - Vamos nos comunicar</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-21/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-21/</link>
       <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-21/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-21/</guid>
       <description>Novidades Grupos no Slack Para facilitar a comunicação da comunidade Front End brasileira, foi criado um grupo no Slack! Clique aqui para entrar :)
 Meninas do Dicas, a Ju Gonçalves também criou um grupo para empoderar mulheres na área de TI (bem como incentivar novas a entrarem na área) e promover sessões de hangouts para troca de experiências e conhecimento. Clique aqui para entrar no grupo Lady Talks no Slack.</description>
     </item>
     
     <item>
       <title>Dica #19</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-19-jekyll-extracao-de-requisitos-2/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-19-jekyll-extracao-de-requisitos-2/</link>
       <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-19-jekyll-extracao-de-requisitos-2/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-19-jekyll-extracao-de-requisitos-2/</guid>
       <description>Apparently Transparent Experimento incrível utilizando CSS e Javascript que simula um ambiente 3D (código-fonte disponível).
 Perguntas e Respostas - Jekyll Um FAQ bem didático sobre o gerador estático de páginas Jekyll.
 Quanto meu projeto de software vai custar? Dicas preciosas para ajudar a orçar projetos sem criar prazos e custos foras da realidade.
@@ -35,20 +35,20 @@ Princípios para escrever CSS de forma consistente e idiomática Para iniciantes
     
     <item>
       <title>Dica #16</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-16/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-16/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-16/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-16/</guid>
       <description>Artigos Desenhando um produto para para mais de um bilhão de pessoas [13 min - video] Um TED sobre a experiência de desenhar um produto para mais de um bilhão de pessoas, no caso o redesign do botão Like do Facebook, que demorou mais de 280 horas para ser finalizado.
 Percebendo usuários: erros, de quem é a culpa? Sobre a importância de levar em consideração o sentimento do usuário ao utilizar seu produto.</description>
     </item>
     
     <item>
       <title>Dica #14</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-14/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-14/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-14/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-14/</guid>
       <description>Artigos Mas e o briefing&amp;hellip;? [5 min] Algumas dicas na etapa de extração de requisitos que podem evitar que você se perca ao executar um trabalho.
 As implicações do campo de busca na experiência do usuário [7 min] A importância de se ter um mecanismo de busca que funcione bem na experiência do usuário e o quão complexo é fazer isso.
 Úteis Fontface Ninja Ferramenta super útil para quem trabalha com tipografia.</description>
@@ -56,10 +56,10 @@ As implicações do campo de busca na experiência do usuário [7 min] A import�
     
     <item>
       <title>Dica #13</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-13/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-13/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-13/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-13/</guid>
       <description>Novidades Segredos do Chrome Dev Tools Zeno Rocha fez uma série de videos com dicas sobre o DevTools do Google. Cada vídeo tem em média 6 minutos, são bastante úteis e didáticos!
 Rolagem contínua em sites de notícias ajuda a conter taxa de rejeição Através da rolagem contínua de conteúdo os sites de notícia aumentaram a retenção dos usuários que caem no site via redes sociais.
 Artigos Quanto vale 1 pixel?</description>
@@ -67,29 +67,29 @@ Artigos Quanto vale 1 pixel?</description>
     
     <item>
       <title>Dica #11</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-11/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-11/</link>
       <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-11/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-11/</guid>
       <description>Novidades Novo design do site &amp;ldquo;Can I Use&amp;rdquo; O caniuse é um site bastante útil para verificar o suporte dos navegadores desktop e mobile para os principais elementos front-end (como propriedades CSS3, elementos HTML5, APIs JavaScript, etc.) O redesign traz um visual mais clean e uma experiência de uso mais agradável, além da correção de alguns bugs e maior suporte para mobile. A nova versão ainda está em beta passando por testes e recebendo feedbacks antes de tomar o lugar da atual.</description>
     </item>
     
     <item>
       <title>Dica #10</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-10/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-10/</link>
       <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-10/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-10/</guid>
       <description>Dicas dessa semana com muitas novidades do Google por causa dos lançamentos feitos na Google/IO (infelizmente não recebi nada pela propaganda! hahah)
 Novidades Google Design [en] Semana passada rolou a Google/IO principal conferência da Google. No link acima você pode conferir as diretrizes que a empresa vem seguindo, mostrando um foco muito forte em UX. Leia também este artigo que fala um pouco sobre o material design, uma das novidades apresentadas.</description>
     </item>
     
     <item>
       <title>Dica #8</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-8/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-8/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-8/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-8/</guid>
       <description>Novidades O software que inspirou o HTML foi finalmente lançado após 54 anos Conheça o OpenXanadu, projeto de hipertexto iniciado em 1960, bem antes da criação do HTML. Dá uma olhada nesse exemplo de um xanadoc.
 Artigos (e guia) CSS on steroids [5 min] Aprenda algumas práticas para aprimorar seu código CSS e entenda as vantagens de se utilizar pré-processadores.
 Wireframe, protótipo e mockup – Qual a diferença? [7 min] Você sabe distinguir essas três formas de representar um projeto?</description>
@@ -97,10 +97,10 @@ Wireframe, protótipo e mockup – Qual a diferença? [7 min] Você sabe disting
     
     <item>
       <title>Dica #5</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-5/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-5/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-5/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-5/</guid>
       <description>Artigos Adicionando Markdown ao seu kit de sobrevivência na web [5 min] Entenda como funciona o markdown e veja várias referências para se aprofundar no assunto.
 Como UX pode destruir mercados [4 min] Sobre as grandes empresas estarem perdendo espaço para novas por ficarem atrasadas na experiência com usuário/cliente.
 O que é Design Atômico? [8 min] Um ponto de início para entender um pouco sobre essa metodologia de desenvolvimento que tem se tornado popular.</description>
@@ -108,20 +108,20 @@ O que é Design Atômico? [8 min] Um ponto de início para entender um pouco sob
     
     <item>
       <title>Dica #2</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-2/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-2/</link>
       <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-2/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-2/</guid>
       <description>Notícias O Internet Explorer é pior do que você pensa [2 min]
 Foi detectada (mais) uma falha de segurança no Internet Explorer que permite a execução de códigos no seu browser remotamente. É mais um motivo para não utilizar o IE. Se você está recebendo os emails dessa lista, espero fortemente que não o utilize como navegador principal (algumas opções ao IE aqui). A Microsoft lançou no dia 1º a atualização para esta falha, leia mais aqui.</description>
     </item>
     
     <item>
       <title>Dica #1</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-1/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-1/</link>
       <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-1/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-1/</guid>
       <description>Olá pessoal,
 Esta é a primeira edição da newsletter Dicas de Front-end. Pretendo trazer aqui, semanalmente, artigos e dicas com novidades, opiniões e discussões sobre o desenvolvimento Front-end e Web Design. Não necessariamente compartilho das opiniões dos artigos, mas se estão aqui é que no mínimo considerei as discussões importantes. Manterei o padrão de enviar o link, seguido do tempo estimado de leitura e um breve resumo (escrito por mim) de cada um.</description>
     </item>

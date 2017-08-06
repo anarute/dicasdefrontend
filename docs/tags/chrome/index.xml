@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chrome on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/chrome/</link>
+    <link>http://dicasdefrontend.com.br/tags/chrome/</link>
     <description>Recent content in Chrome on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #17</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-17/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-17/</link>
       <pubDate>Sun, 07 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-17/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-17/</guid>
       <description>Novidades Segredos do Chrome DevTools #2 Saem 5 novos vídeos explorando as ferramentas do Chrome DevTools. Dicas valiosas e videos muito didáticos!
 Artigos The book is on the table [8 min] Uma coletânea de livros feita pelo Vitor Britto para se aprender (e muito bem) Javascript.
 Otimização de imagens [7 min] Dicas sobre como otimizar imagens para web, quais os melhores formatos e traz também uma lista de ferramentas úteis sobre o assunto.</description>
@@ -24,10 +24,10 @@ Otimização de imagens [7 min] Dicas sobre como otimizar imagens para web, quai
     
     <item>
       <title>Dica #6</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-6/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-6/</link>
       <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-6/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-6/</guid>
       <description>Novidades Cursos gratuitos do Codecademy ganham versão em português [2 min] Após alguns anos de espera a Codecademy lançou uma versão em português com cursos gratuitos de HTML, CSS, JavaScript, jQuery, PHP, Python e Ruby. Ainda não está totalmente traduzida, mas já possui boa parte dos cursos em português.
 Artigos Segredos do Chrome Developer Tools [3 min] Dicas de funções bastante úteis, mas pouco conhecidas do Chrome Developer Tools.</description>
     </item>

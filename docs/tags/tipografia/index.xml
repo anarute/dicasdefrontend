@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tipografia on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/tipografia/</link>
+    <link>http://dicasdefrontend.com.br/tags/tipografia/</link>
     <description>Recent content in Tipografia on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/tipografia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/tipografia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #18</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-18/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-18/</link>
       <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-18/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-18/</guid>
       <description>Apparently Transparent Experimento incrível utilizando CSS e Javascript que simula um ambiente 3D (código-fonte disponível).
 Perguntas e Respostas - Jekyll Um FAQ bem didático sobre o gerador estático de páginas Jekyll.
 Quanto meu projeto de software vai custar? Dicas preciosas para ajudar a orçar projetos sem criar prazos e custos foras da realidade.
@@ -25,10 +25,10 @@ Princípios para escrever CSS de forma consistente e idiomática Para iniciantes
     
     <item>
       <title>Dica #14</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-14/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-14/</link>
       <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-14/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-14/</guid>
       <description>Artigos Mas e o briefing&amp;hellip;? [5 min] Algumas dicas na etapa de extração de requisitos que podem evitar que você se perca ao executar um trabalho.
 As implicações do campo de busca na experiência do usuário [7 min] A importância de se ter um mecanismo de busca que funcione bem na experiência do usuário e o quão complexo é fazer isso.
 Úteis Fontface Ninja Ferramenta super útil para quem trabalha com tipografia.</description>
@@ -36,10 +36,10 @@ As implicações do campo de busca na experiência do usuário [7 min] A import�
     
     <item>
       <title>Dica #9</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-9/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-9/</link>
       <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-9/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-9/</guid>
       <description>Em clima de copa, mas sem deixar de se atualizar. Vale até ler durante o intervalo dos jogos entre um amendoim e uma cervejinha :)
 Novidades Tendências da Copa do Mundo pelo Google Google trends especial sobre a copa do mundo na internet.
 Made with code [en] Mais um projeto bem legal para quebrar a barreira do ensino de programação para iniciantes. Desta vez voltado para meninas e feito pelo Google.</description>

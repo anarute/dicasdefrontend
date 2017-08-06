@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schema on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/schema/</link>
+    <link>http://dicasdefrontend.com.br/tags/schema/</link>
     <description>Recent content in Schema on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 14 May 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/schema/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/schema/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #3</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-3/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-3/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-3/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-3/</guid>
       <description>Artigos Schema.org - Apenas use. [5 min]
 Deixando seu conteúdo realmente semântico. Entenda como fazer isso usando o Schema.org
 Porque toda criança deve aprender a programar [4 min]

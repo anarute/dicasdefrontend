@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jekyll on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/jekyll/</link>
+    <link>http://dicasdefrontend.com.br/tags/jekyll/</link>
     <description>Recent content in Jekyll on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Feb 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #19</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-19-jekyll-extracao-de-requisitos-2/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-19-jekyll-extracao-de-requisitos-2/</link>
       <pubDate>Tue, 24 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-19-jekyll-extracao-de-requisitos-2/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-19-jekyll-extracao-de-requisitos-2/</guid>
       <description>Apparently Transparent Experimento incrível utilizando CSS e Javascript que simula um ambiente 3D (código-fonte disponível).
 Perguntas e Respostas - Jekyll Um FAQ bem didático sobre o gerador estático de páginas Jekyll.
 Quanto meu projeto de software vai custar? Dicas preciosas para ajudar a orçar projetos sem criar prazos e custos foras da realidade.
@@ -25,10 +25,10 @@ Princípios para escrever CSS de forma consistente e idiomática Para iniciantes
     
     <item>
       <title>Dica #15</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-15/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-15/</link>
       <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-15/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-15/</guid>
       <description>Artigos Como nasceu o Meetup CSS SP! São Paulo ganhou um novo evento de Front-End, o meetup CSS SP, veja como foi!
 Servindo sites estáticos com Jekyll &amp;ldquo;Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websites estáticos, sem banco de dados e fáceis de gerenciar.&amp;rdquo;
 Manipulação de pseudo-elements com JavaScript Manipular pseudo-elementos com Javascript é mais complicado do que parece. Aprenda um pouco sobre isso.</description>

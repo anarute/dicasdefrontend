@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebooks on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/ebooks/</link>
+    <link>http://dicasdefrontend.com.br/tags/ebooks/</link>
     <description>Recent content in Ebooks on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 10 Mar 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #20 - React, eBooks gratuitos e experimentos web</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-20/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-20/</link>
       <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-20/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-20/</guid>
       <description>Como se tornar um desenvolvedor Front End Mais um guia fundamental para quem quer aprender todos os passos necessários para se tornar um[a] desenvolver[a] Front End.
 React Loop [en] Clube de leitura com newsletter para estudos de React criada pelo Helder.
 Introdução ao React.JS Para iniciantes: Introdução a alguns conceitos básicos do React.

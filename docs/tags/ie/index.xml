@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ie on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/ie/</link>
+    <link>http://dicasdefrontend.com.br/tags/ie/</link>
     <description>Recent content in Ie on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/ie/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/ie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #17</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-17/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-17/</link>
       <pubDate>Sun, 07 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-17/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-17/</guid>
       <description>Novidades Segredos do Chrome DevTools #2 Saem 5 novos vídeos explorando as ferramentas do Chrome DevTools. Dicas valiosas e videos muito didáticos!
 Artigos The book is on the table [8 min] Uma coletânea de livros feita pelo Vitor Britto para se aprender (e muito bem) Javascript.
 Otimização de imagens [7 min] Dicas sobre como otimizar imagens para web, quais os melhores formatos e traz também uma lista de ferramentas úteis sobre o assunto.</description>
@@ -24,20 +24,20 @@ Otimização de imagens [7 min] Dicas sobre como otimizar imagens para web, quai
     
     <item>
       <title>Dica #16</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-16/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-16/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-16/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-16/</guid>
       <description>Artigos Desenhando um produto para para mais de um bilhão de pessoas [13 min - video] Um TED sobre a experiência de desenhar um produto para mais de um bilhão de pessoas, no caso o redesign do botão Like do Facebook, que demorou mais de 280 horas para ser finalizado.
 Percebendo usuários: erros, de quem é a culpa? Sobre a importância de levar em consideração o sentimento do usuário ao utilizar seu produto.</description>
     </item>
     
     <item>
       <title>Dica #12</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-12/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-12/</link>
       <pubDate>Sat, 12 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-12/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-12/</guid>
       <description>Novidades Eventos Front-End no Brasil A BrazilJS atualizou a lista de eventos de Front-End que acontecerão no país, vale dar uma conferida e acompanhar.
 TJ Holowaychuk anunciou que está largando o Node.JS e você com isto? Entenda as implicações da saída de um dos membros mais ativos da comunidade Node.JS
 Artigos Os 25 anos da Web No mês de março a web completou 25 anos. Neste artigo Reinaldo Ferraz da W3C Brasil faz uma retrospectiva em como a web surgiu e tornou-se importante e nos convida a se envolver com a comunidade.</description>
@@ -45,10 +45,10 @@ Artigos Os 25 anos da Web No mês de março a web completou 25 anos. Neste artig
     
     <item>
       <title>Dica #2</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-2/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-2/</link>
       <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-2/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-2/</guid>
       <description>Notícias O Internet Explorer é pior do que você pensa [2 min]
 Foi detectada (mais) uma falha de segurança no Internet Explorer que permite a execução de códigos no seu browser remotamente. É mais um motivo para não utilizar o IE. Se você está recebendo os emails dessa lista, espero fortemente que não o utilize como navegador principal (algumas opções ao IE aqui). A Microsoft lançou no dia 1º a atualização para esta falha, leia mais aqui.</description>
     </item>

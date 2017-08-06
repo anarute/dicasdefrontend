@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/markdown/</link>
+    <link>http://dicasdefrontend.com.br/tags/markdown/</link>
     <description>Recent content in Markdown on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #5</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-5/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-5/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-5/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-5/</guid>
       <description>Artigos Adicionando Markdown ao seu kit de sobrevivência na web [5 min] Entenda como funciona o markdown e veja várias referências para se aprofundar no assunto.
 Como UX pode destruir mercados [4 min] Sobre as grandes empresas estarem perdendo espaço para novas por ficarem atrasadas na experiência com usuário/cliente.
 O que é Design Atômico? [8 min] Um ponto de início para entender um pouco sobre essa metodologia de desenvolvimento que tem se tornado popular.</description>

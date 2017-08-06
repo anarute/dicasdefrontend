@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visão Computacional on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/vis%C3%A3o-computacional/</link>
+    <link>http://dicasdefrontend.com.br/tags/vis%C3%A3o-computacional/</link>
     <description>Recent content in Visão Computacional on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Jul 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/vis%C3%A3o-computacional/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/vis%C3%A3o-computacional/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #13</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-13/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-13/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-13/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-13/</guid>
       <description>Novidades Segredos do Chrome Dev Tools Zeno Rocha fez uma série de videos com dicas sobre o DevTools do Google. Cada vídeo tem em média 6 minutos, são bastante úteis e didáticos!
 Rolagem contínua em sites de notícias ajuda a conter taxa de rejeição Através da rolagem contínua de conteúdo os sites de notícia aumentaram a retenção dos usuários que caem no site via redes sociais.
 Artigos Quanto vale 1 pixel?</description>

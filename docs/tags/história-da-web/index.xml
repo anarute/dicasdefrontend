@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>História Da Web on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/hist%C3%B3ria-da-web/</link>
+    <link>http://dicasdefrontend.com.br/tags/hist%C3%B3ria-da-web/</link>
     <description>Recent content in História Da Web on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 27 Sep 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/hist%C3%B3ria-da-web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/hist%C3%B3ria-da-web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #22 - Tirando a poeira</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-22/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-22/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-22/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-22/</guid>
       <description>Voltando a estudar e com o Dicas ;)
 As Minas que Quebram os Códigos da Desigualdade de Gênero Artigo não-técnico porém nem um pouco menos importante. Conheça as meninas do Maria Lab, que se dedicam ativamente para diminuir a desigualdade de gênero no mercado de tecnologia.
 Manipulando SVG com JS O Willian fez um ótimo post para quem quer começar a manipular SVG com Javascript.

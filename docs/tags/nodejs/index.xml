@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nodejs on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/nodejs/</link>
+    <link>http://dicasdefrontend.com.br/tags/nodejs/</link>
     <description>Recent content in Nodejs on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Jul 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #12</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-12/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-12/</link>
       <pubDate>Sat, 12 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-12/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-12/</guid>
       <description>Novidades Eventos Front-End no Brasil A BrazilJS atualizou a lista de eventos de Front-End que acontecerão no país, vale dar uma conferida e acompanhar.
 TJ Holowaychuk anunciou que está largando o Node.JS e você com isto? Entenda as implicações da saída de um dos membros mais ativos da comunidade Node.JS
 Artigos Os 25 anos da Web No mês de março a web completou 25 anos. Neste artigo Reinaldo Ferraz da W3C Brasil faz uma retrospectiva em como a web surgiu e tornou-se importante e nos convida a se envolver com a comunidade.</description>

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animações on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/anima%C3%A7%C3%B5es/</link>
+    <link>http://dicasdefrontend.com.br/tags/anima%C3%A7%C3%B5es/</link>
     <description>Recent content in Animações on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Mar 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/anima%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/anima%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #21 - Vamos nos comunicar</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-21/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-21/</link>
       <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-21/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-21/</guid>
       <description>Novidades Grupos no Slack Para facilitar a comunicação da comunidade Front End brasileira, foi criado um grupo no Slack! Clique aqui para entrar :)
 Meninas do Dicas, a Ju Gonçalves também criou um grupo para empoderar mulheres na área de TI (bem como incentivar novas a entrarem na área) e promover sessões de hangouts para troca de experiências e conhecimento. Clique aqui para entrar no grupo Lady Talks no Slack.</description>
     </item>
     
     <item>
       <title>Dica #10</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-10/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-10/</link>
       <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-10/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-10/</guid>
       <description>Dicas dessa semana com muitas novidades do Google por causa dos lançamentos feitos na Google/IO (infelizmente não recebi nada pela propaganda! hahah)
 Novidades Google Design [en] Semana passada rolou a Google/IO principal conferência da Google. No link acima você pode conferir as diretrizes que a empresa vem seguindo, mostrando um foco muito forte em UX. Leia também este artigo que fala um pouco sobre o material design, uma das novidades apresentadas.</description>
     </item>
     
     <item>
       <title>Dica #8</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-8/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-8/</link>
       <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-8/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-8/</guid>
       <description>Novidades O software que inspirou o HTML foi finalmente lançado após 54 anos Conheça o OpenXanadu, projeto de hipertexto iniciado em 1960, bem antes da criação do HTML. Dá uma olhada nesse exemplo de um xanadoc.
 Artigos (e guia) CSS on steroids [5 min] Aprenda algumas práticas para aprimorar seu código CSS e entenda as vantagens de se utilizar pré-processadores.
 Wireframe, protótipo e mockup – Qual a diferença? [7 min] Você sabe distinguir essas três formas de representar um projeto?</description>

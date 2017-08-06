@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designers on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/designers/</link>
+    <link>http://dicasdefrontend.com.br/tags/designers/</link>
     <description>Recent content in Designers on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 May 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/designers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/designers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #2</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-2/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-2/</link>
       <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-2/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-2/</guid>
       <description>Notícias O Internet Explorer é pior do que você pensa [2 min]
 Foi detectada (mais) uma falha de segurança no Internet Explorer que permite a execução de códigos no seu browser remotamente. É mais um motivo para não utilizar o IE. Se você está recebendo os emails dessa lista, espero fortemente que não o utilize como navegador principal (algumas opções ao IE aqui). A Microsoft lançou no dia 1º a atualização para esta falha, leia mais aqui.</description>
     </item>

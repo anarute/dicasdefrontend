@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parallax on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/parallax/</link>
+    <link>http://dicasdefrontend.com.br/tags/parallax/</link>
     <description>Recent content in Parallax on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 18 Aug 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/parallax/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/parallax/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #15</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-15/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-15/</link>
       <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-15/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-15/</guid>
       <description>Artigos Como nasceu o Meetup CSS SP! São Paulo ganhou um novo evento de Front-End, o meetup CSS SP, veja como foi!
 Servindo sites estáticos com Jekyll &amp;ldquo;Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websites estáticos, sem banco de dados e fáceis de gerenciar.&amp;rdquo;
 Manipulação de pseudo-elements com JavaScript Manipular pseudo-elementos com Javascript é mais complicado do que parece. Aprenda um pouco sobre isso.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elm on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/elm/</link>
+    <link>http://dicasdefrontend.com.br/tags/elm/</link>
     <description>Recent content in Elm on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 02 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/elm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/elm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #24 - Me aventurando em Elm</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-24-me-aventurando-em-elm/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-24-me-aventurando-em-elm/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-24-me-aventurando-em-elm/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-24-me-aventurando-em-elm/</guid>
       <description>Olá pessoal!
 Ano passado foi um furacão pessoal e profissional pra mim: minha startup recebeu financiamento da Fapesp, eu fiz um estágio de 3 meses na Mozilla, fui pra Londres, palestrei no FISL, tive muitos momentos de &amp;ldquo;my brain hurts&amp;rdquo;, mas foi tudo muito positivo! Comecei 2017 com muita vontade de produzir, o que nos leva ao que tenho estudado ultimamente: programação funcional e Elm.
 Antes de pular pros links, eu queria compartilhar que o dicas tem tomado um carater mais pessoal e orgânico, ao invés de ser só um compilado de artigos (irei inclusive replicar essa edição no medium e passar a escrever mais por lá).</description>

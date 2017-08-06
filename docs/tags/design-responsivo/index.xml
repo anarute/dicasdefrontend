@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design Responsivo on Dicas de Front End</title>
-    <link>https://anarute.github.io/dicasdefrontend/tags/design-responsivo/</link>
+    <link>http://dicasdefrontend.com.br/tags/design-responsivo/</link>
     <description>Recent content in Design Responsivo on Dicas de Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Jun 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://anarute.github.io/dicasdefrontend/tags/design-responsivo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dicasdefrontend.com.br/tags/design-responsivo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dica #7</title>
-      <link>https://anarute.github.io/dicasdefrontend/post/dica-7/</link>
+      <link>http://dicasdefrontend.com.br/post/dica-7/</link>
       <pubDate>Mon, 09 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://anarute.github.io/dicasdefrontend/post/dica-7/</guid>
+      <guid>http://dicasdefrontend.com.br/post/dica-7/</guid>
       <description>Novidades Apple apresenta OS X Yosemite, com destaque para detalhes de design Veja o que foi apresentado na WWDC, a conferência da Apple para desenvolvedores. Para quem já quer começar a aprender Swift, a nova linguagem de programação anunciada pela Apple, a própria empresa já disponibilizou um ebook, baixe aqui.
 WebCompat [en] Novo projeto da Mozilla para reportar bugs da internet colaborativamente.
 Artigos Código não é poesia. É política [4 min] &amp;ldquo;Quando o Search Engine Optimization controla a distribuição da informação, quem controla o SEO?</description>
