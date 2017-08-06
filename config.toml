@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://anarute.github.io/dicasdefrontend/"
+baseurl = "http://dicasdefrontend.com.br/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
 title = "Dicas de Front End"
